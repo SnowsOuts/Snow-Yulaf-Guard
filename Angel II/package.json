@@ -1,0 +1,16 @@
+{
+  "name": "snow-channel-guard",
+  "version": "0.0.1",
+  "description": "snow Channel Guard",
+  "main": "snow.js",
+  "scripts": {
+    "test": "node snow.js"
+  },
+  "author": "snow",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "keywords": [],
+  "devDependencies": {}
+}

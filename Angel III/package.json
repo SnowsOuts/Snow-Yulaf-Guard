@@ -1,0 +1,19 @@
+{
+  "name": "snow-role-guard",
+  "version": "0.0.1",
+  "description": "snow Role Guard",
+  "main": "snow",
+  "scripts": {
+    "test": "node snow"
+  },
+  "author": "snow",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.12.3"
+  },
+  "keywords": [
+    "snow"
+  ]
+}

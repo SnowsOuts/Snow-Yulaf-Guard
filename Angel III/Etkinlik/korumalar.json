@@ -1,0 +1,5 @@
+{
+    "roleUpdate":true,
+    "roleDelete":true,
+    "roleCreate":true,
+    "roleMemberUpdate":true}
